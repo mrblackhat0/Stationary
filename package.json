@@ -1,0 +1,15 @@
+{
+  "name": "dance-academy",
+  "version": "1.0.0",
+  "description": "This is a web app for dance Academy.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Rohit Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
